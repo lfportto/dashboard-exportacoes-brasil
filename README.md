@@ -50,5 +50,8 @@ Os dados utilizados são públicos e foram obtidos no site `GOV.BR`, na página:
 # Sobre o Projeto
 Este projeto foi desenvolvido como parte da disciplina Tecnologia da Informação Aplicada à Gestão de Operações e Processos, no 6º semestre do curso superior de Tecnologia em Gestão da Produção Industrial, da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal (FATEC SJC).
 
+# Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
 # Tags
 `#Python` `#MySQL` `#PowerBI` `#Exportações` `#AnáliseDeDados` `#Dashboard` `#EngenhariaDeDados` `#ETL` `#ComércioExterior` `#Python` `#MySQL` `#PowerBI` `#DataAnalysis` `#DataEngineering` `#ETL` `#ELT` `#BusinessIntelligence` `#DataVisualization` `#PublicData` `#BrazilExports` `#SQL` `#CSV` `#Automation` `#OpenData`
