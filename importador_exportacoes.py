@@ -5,10 +5,10 @@ import shutil
 # Conexão com o MySQL
 # MySQL connection
 conn = mysql.connector.connect(
-    host='127.0.0.1',
-    user='root',
-    password='root1234',
-    database='exportacoes',
+    host='INSIRA_O_HOST_AQUI',         # ex: 'localhost'
+    user='INSIRA_SEU_USUARIO',         # ex: 'root'
+    password='INSIRA_SUA_SENHA',       # ex: 'root1234'
+    database='exportacoes',            # nome do banco de dados
     allow_local_infile=True
 )
 cursor = conn.cursor()
