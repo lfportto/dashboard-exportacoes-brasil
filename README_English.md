@@ -44,7 +44,7 @@ A Python script was developed to automate the following tasks:
 - Run a `UNION` to append the new data to the consolidated table (`tb_exportacoes_unificada`).
 - Rename the original file by adding the prefix `Importado_` (`Imported_`).
 - Move the processed file into a folder called `Arquivos processados` (`Processed files`).  
-📁 [View the Python script here]()
+📁 [View the Python script here](importador_exportacoes.py)
 
 ## Data Source
 The data used in this project is publicly available at:  
