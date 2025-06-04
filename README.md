@@ -1,4 +1,7 @@
 # 📦 Mapeamento de Exportações no Brasil (2022 - 2025)
+
+📄 [English version 🇬🇧](README_en.md)
+
 # Descrição
 Este projeto tem como foco a análise das exportações brasileiras no período de 2022 a 2025, com base em dados públicos fornecidos pelo governo federal. Utilizando uma combinação de ferramentas como MySQL, Python e Power BI, foram desenvolvidas soluções para importação, modelagem e visualização interativa dos dados, com foco em insights logísticos e comerciais.
 
