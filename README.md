@@ -44,7 +44,7 @@ Um script em Python foi desenvolvido com as seguintes funcionalidades:
 - Executa a função `UNION`, fazendo a junção com a tabela consolidada (tb_exportacoes_unificada).
 - Renomeia o arquivo original, adicionando o prefixo `Importado_`.
 - Move o arquivo processado para uma subpasta chamada `Arquivos processados`.  
-📁 [Veja o script Python aqui]()
+📁 [Veja o script Python aqui](importador_exportacoes.py)
 
 # Fonte dos Dados
 Os dados utilizados são públicos e foram obtidos no site `GOV.BR`, na página:  
