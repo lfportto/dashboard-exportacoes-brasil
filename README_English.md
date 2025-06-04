@@ -1,6 +1,6 @@
 # 📦 Mapping Brazilian Exports (2022 - 2025)
 
-📄 [Versão em português 🇧🇷](README.md)
+📄 [Versão em português](README.md)
 
 ## Description
 This project focuses on analyzing Brazilian exports from 2022 to 2025, based on public data provided by the federal government. Using a combination of tools like MySQL, Python, and Power BI, solutions were developed for importing, modeling, and interactively visualizing the data, with a focus on logistical and commercial insights.
