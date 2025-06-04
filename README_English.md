@@ -1,9 +1,9 @@
-# 📦 Mapping Brazilian Exports (2022 - 2025)
+# 📦 Brazilian Export Mapping (2022 - 2025)
 
 📄 [Versão em português](README.md)
 
 ## Description
-This project focuses on analyzing Brazilian exports from 2022 to 2025, based on public data provided by the federal government. Using a combination of tools like MySQL, Python, and Power BI, solutions were developed for importing, modeling, and interactively visualizing the data, with a focus on logistical and commercial insights.
+This project focuses on analyzing Brazilian exports from 2022 to 2025, based on public data provided by the federal government. Using a combination of tools such as MySQL, Python, and Power BI, the solutions were developed for importing, modeling, and interactively visualizing the data, with a focus on logistical and commercial insights.
 
 ## Objective
 Analyze the behavior of Brazilian exports by answering the following key questions:
@@ -42,8 +42,8 @@ A Python script was developed to automate the following tasks:
 - Create the corresponding table in MySQL (if not already created).
 - Import the data using `LOAD DATA LOCAL INFILE`, ensuring fast performance.
 - Run a `UNION` to append the new data to the consolidated table (`tb_exportacoes_unificada`).
-- Rename the original file by adding the prefix `Importado_`.
-- Move the processed file into a folder called `Arquivos processados`.  
+- Rename the original file by adding the prefix `Importado_` (`Imported_`).
+- Move the processed file into a folder called `Arquivos processados` (`Processed files`).  
 📁 [View the Python script here]()
 
 ## Data Source
@@ -51,7 +51,7 @@ The data used in this project is publicly available at:
 🔗 [Foreign Trade Statistics - Open Data - Ministry of Development, Industry, Trade and Services](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
 ## About the Project
-This project was developed as part of the course "Information Technology Applied to Operations and Process Management" in the 6th semester of the undergraduate degree in Industrial Production Management Technology, at the Faculty of Technology of São José dos Campos - Prof. Jessen Vidal (FATEC SJC).
+This project was developed as part of the course "Information Technology Applied to Operations and Process Management" in the 6th semester of the undergraduate degree in Industrial Production Management Technology, at Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal (FATEC SJC).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
