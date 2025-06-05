@@ -50,6 +50,13 @@ Um script em Python foi desenvolvido com as seguintes funcionalidades:
 Os dados utilizados são públicos e foram obtidos no site `GOV.BR`, na página:  
 🔗 [Estatísticas de Comércio Exterior em Dados Abertos - Ministério do Desenvolvimento, Indústria, Comércio e Serviços](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
+# Arquivo de Teste
+Para fins de demonstração e validação do script Python, este repositório inclui um arquivo `.csv` simplificado contendo 500 linhas simuladas, localizado [aqui](EXP_2021_test.csv).
+Esse arquivo permite que qualquer usuário teste o fluxo completo do projeto — desde a criação da tabela no MySQL, passando pela importação automatizada via Python, até a atualização da tabela consolidada.
+**Pré-requisitos para o teste:**
+- Ter o MySQL instalado e em execução;
+- Ter o Python instalado e o script de automação configurado corretamente.
+
 # Sobre o Projeto
 Este projeto foi desenvolvido como parte da disciplina Tecnologia da Informação Aplicada à Gestão de Operações e Processos, no 6º semestre do curso superior de Tecnologia em Gestão da Produção Industrial, da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal (FATEC SJC).
 
