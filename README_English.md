@@ -50,6 +50,14 @@ A Python script was developed to automate the following tasks:
 The data used in this project is publicly available at:  
 🔗 [Foreign Trade Statistics - Open Data - Ministry of Development, Industry, Trade and Services](https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
 
+# Test File
+For demonstration and testing purposes, this repository includes a simplified `.csv` file with 500 simulated rows, located [here](EXP_2021_test.csv).
+This file allows any user to test the complete workflow of the project — from table creation in MySQL, through automated import via Python, to the update of the consolidated table.  
+
+**Requirements for testing:**
+- MySQL must be installed and running;
+- Python must be installed and the automation script properly configured.
+
 ## About the Project
 This project was developed as part of the course "Information Technology Applied to Operations and Process Management" in the 6th semester of the undergraduate degree in Industrial Production Management Technology, at Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal (FATEC SJC).
 
