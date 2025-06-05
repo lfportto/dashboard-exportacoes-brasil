@@ -52,7 +52,8 @@ Os dados utilizados são públicos e foram obtidos no site `GOV.BR`, na página:
 
 # Arquivo de Teste
 Para fins de demonstração e validação do script Python, este repositório inclui um arquivo `.csv` simplificado contendo 500 linhas simuladas, localizado [aqui](EXP_2021_test.csv).
-Esse arquivo permite que qualquer usuário teste o fluxo completo do projeto — desde a criação da tabela no MySQL, passando pela importação automatizada via Python, até a atualização da tabela consolidada.
+Esse arquivo permite que qualquer usuário teste o fluxo completo do projeto — desde a criação da tabela no MySQL, passando pela importação automatizada via Python, até a atualização da tabela consolidada.  
+
 **Pré-requisitos para o teste:**
 - Ter o MySQL instalado e em execução;
 - Ter o Python instalado e o script de automação configurado corretamente.
