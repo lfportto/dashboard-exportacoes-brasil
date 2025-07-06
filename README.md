@@ -65,4 +65,4 @@ Este projeto foi desenvolvido como parte da disciplina Tecnologia da Informaçã
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Tags
-`#Python` `#MySQL` `#PowerBI` `#Exportações` `#AnáliseDeDados` `#Dashboard` `#EngenhariaDeDados` `#ETL` `#ComércioExterior` `#Python` `#MySQL` `#PowerBI` `#DataAnalysis` `#DataEngineering` `#ETL` `#ELT` `#BusinessIntelligence` `#BI` `#DataVisualization` `#PublicData` `#BrazilExports` `#SQL` `#CSV` `#Automation` `#OpenData`
+`#Python` `#MySQL` `#PowerBI` `#Exportações` `#AnaliseDeDados` `#Dashboard` `#EngenhariaDeDados` `#ETL` `#ComercioExterior` `#Python` `#MySQL` `#PowerBI` `#DataAnalysis` `#DataEngineering` `#ETL` `#ELT` `#BusinessIntelligence` `#BI` `#DataVisualization` `#PublicData` `#BrazilExports` `#SQL` `#CSV` `#Automation` `#OpenData`
